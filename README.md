@@ -1,7 +1,7 @@
-# atsave
+# ctrl_s
 とにかく保存するもの。
 ```js
-fn.atsave()
+fn.ctrl_s()
 ```
 
 ```
