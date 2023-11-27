@@ -1,7 +1,7 @@
-# hashsave
+# atsave
 とにかく保存するもの。
 ```js
-fn.hashsave()
+fn.atsave()
 ```
 
 ```
