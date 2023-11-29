@@ -120,5 +120,6 @@ https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231129_XunuVa.jpg
 
 ＃というのでこれでいい気がする。
 　これで、USEを更新。
+　CTRL_Sを修正。セーブするときのカラーを変更できるように。
 　
 
