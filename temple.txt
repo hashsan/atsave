@@ -113,4 +113,7 @@ https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231129_XunuVa.jpg
 　これでいい。
 　画像のサイズは４００だったかな。５１２でもいいのだが。
 
+＃エラーはでるかな。
+　というかアップデートしないといけないのか。
+　初回に。
 
