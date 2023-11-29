@@ -50,5 +50,3 @@ font-size : 21px;
 --word:#BFB9B9;
 ---
 
-
-
