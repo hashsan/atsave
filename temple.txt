@@ -193,5 +193,6 @@ https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231129_XunuVa.jpg
 　レンダーインデックスの使い勝手が良くない。
 　あれは修正して、もうリンクごと提供したほうがいい気がする。
 　時間かかりすぎるというか、ソースコードを汚しすぎる。
+　もう終わり、今日は終わり。
 　
 <br>
