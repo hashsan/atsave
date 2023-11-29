@@ -172,4 +172,6 @@ https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231129_XunuVa.jpg
 　path:*.js
 ---
 　とすると、ジャバスクリプトのコードを検索できる。基本は自分のリポジトリである。
+
+＃セーブブロック対応した
 <br>
