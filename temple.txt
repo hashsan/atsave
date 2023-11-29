@@ -66,14 +66,14 @@ font-size : 21px;
 　画像のブライトネスは要相談。
 　暗すぎると暗い画像が暗すぎる。
 ---
- brightness(...)
+ brightness(0.7);
 ---
 　とりあえず、右上の幅を特定してそちらにドロップなどされた画像を入れ込む。
 　画像の位置、幅は、このあたりをベースに。
 ---
 img.filter {
     position: fixed;
-    top: 10vh;
+    top: 0.25rem;
     right: 0;
     width: calc( (100vw - 640px - 4rem)/2 );
     border-radius: 4px;
