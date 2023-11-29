@@ -173,5 +173,7 @@ https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231129_XunuVa.jpg
 ---
 　とすると、ジャバスクリプトのコードを検索できる。基本は自分のリポジトリである。
 
-＃セーブブロック対応した
+＃セーブブロック対応した。
+　これでどうなるか。今セーブしていない。
+　
 <br>
