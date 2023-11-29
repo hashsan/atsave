@@ -115,5 +115,10 @@ https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231129_XunuVa.jpg
 
 ＃エラーはでるかな。
 　というかアップデートしないといけないのか。
-　初回に。
+　初回に。CRCも変更してるな。
+　タイトル一覧も取れている。
+
+＃というのでこれでいい気がする。
+　これで、USEを更新。
+　
 
