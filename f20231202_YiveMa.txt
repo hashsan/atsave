@@ -1,5 +1,17 @@
 ＃迷宮喰らいウィズ　小田土デアル
 　ゲームシステムはオーソドックスに。
+戦士トカゲ。
+https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_ZukuSo.jpg
+忍者ギンナン。
+https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_WomaXe.jpg
+錬金クロバラ。
+https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_DeroBa.jpg
+盗賊アニャル。
+https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_XifaZa.png
+神女ネリコ。
+https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_YuquWu.png
+召喚王子。
+https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_RuhuNa.jpg
 
 ＃序文
 　悪魔たちが迷宮から出現し、危機に瀕した諸王たちが、独力ではなく、ようやく団結し、地上の驚異を払拭してから、十年の月日が過ぎた。
@@ -64,15 +76,4 @@
 「存在感――」
 「ま、胸の大きさのことだけどね」
 
-戦士トカゲ。
-https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_ZukuSo.jpg
-忍者ギンナン。
-https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_WomaXe.jpg
-錬金クロバラ。
-https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_DeroBa.jpg
-盗賊アニャル。
-https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_XifaZa.png
-神女ネリコ。
-https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_YuquWu.png
-召喚王子。
-https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_RuhuNa.jpg
+
