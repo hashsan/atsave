@@ -209,4 +209,7 @@ https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231129_XunuVa.jpg
 　動作が遅い。
 　これはなにかというと、まずはCRCな気がする。次の問題点は、一つの要素を二千行分変更しているからか。
 　やはり分割するべきだろう。
+　とした時の変更点はものすごく多い。
+　さて、どうするのか、という話である。
+
 <br>
