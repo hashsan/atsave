@@ -1,5 +1,6 @@
 ＃迷宮喰らいウィズ　小田土デアル
 　ゲームシステムはオーソドックスに。
+https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_KuyuJa.jpg
 戦士トカゲ。「俺ちゃん毒だけは強い」
 https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_ZukuSo.jpg
 忍者ギンナン。「であります」
