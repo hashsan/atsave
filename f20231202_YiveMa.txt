@@ -1,16 +1,16 @@
 ＃迷宮喰らいウィズ　小田土デアル
 　ゲームシステムはオーソドックスに。
-戦士トカゲ。
+戦士トカゲ。「俺ちゃん毒だけは強い」
 https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_ZukuSo.jpg
-忍者ギンナン。
+忍者ギンナン。「であります」
 https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_WomaXe.jpg
-錬金クロバラ。
+錬金クロバラ。「あたしたちのパーティー、魔導いないのよね」
 https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_DeroBa.jpg
-盗賊アニャル。
+盗賊アニャル。「ダメにゃん」
 https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_XifaZa.png
-神女ネリコ。
+神女ネリコ。「えっ。そうなんですか？」
 https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_YuquWu.png
-召喚王子。
+召喚王子。「まあ、僕らは僕らなりにね」
 https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231202_RuhuNa.jpg
 
 ＃序文
