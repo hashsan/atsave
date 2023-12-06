@@ -780,7 +780,7 @@ https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231206_QeweKa.jpg
 「まじでいたよ！」
 　ビビったのは、君である。
 
-＃第七幕、ナジミの塔
+＃第七幕、ナジミの洞窟
 「こんにちは、旅人の宿屋へようこそ、一晩八ゴールドになりますが」
 「ああ、お願いするぜ」
 「あれ、勇者。近くに家あるんじゃないの」
@@ -936,6 +936,8 @@ https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231206_QeweKa.jpg
 　と棒読みは、君たちの商人タマモである。
 「へっ。こんなところで商売したって、フロッガーになるだけだぜ」
 　ゼリは、カエルの魔物になると吐き捨てた。
+
+＃第八幕、ナジミの塔
 
 
 
