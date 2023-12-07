@@ -931,3 +931,5 @@ https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231206_QeweKa.jpg
 　魔導クロバラ。レベル八。生命力三三。魔力四四。
 　次幕は、ロマリアの闘技場から始まる。
 　つづく。
+
+index.html?file=dorakue3_3.txt
