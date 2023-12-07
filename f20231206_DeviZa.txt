@@ -1189,4 +1189,4 @@ https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231206_QeweKa.jpg
 　魔導クロバラ。レベル八。生命力二〇。魔力三五。
 　つづく。
 
-index.html?file=dorakue2.txt
+index.html?file=dorakue3_2.txt
