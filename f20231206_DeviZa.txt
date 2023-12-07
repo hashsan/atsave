@@ -16,7 +16,7 @@
 　トカゲ。トカゲの姿となった勇者。一六才。
 　ゼリ。男勝りの女盗賊、ゼリ様。「んあ？　ちょっ待てよ、今、お宝の匂い嗅いでるからよ」
 https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231206_HeqaZo.jpg
-　タマモ。玉ねぎ頭の商人。「おにーさん、タマモちゃん眠くなってきた」桃色の玉ねぎ頭は、タマモちゃんである。
+　タマモ。玉ねぎ頭の商人。「タマモちゃん眠くなってきた」桃色の玉ねぎ頭は、タマモちゃんである。
 https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231206_VaveYo.webp
 　クロバラ。おまかせ魔導さん。「クロバラさんはもう魔力が尽きたので、ただの胸のでかい女よ」
 https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231206_QeweKa.jpg
@@ -1444,7 +1444,7 @@ https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231206_QeweKa.jpg
 　タマモちゃんは、ターバンを装備して既に守備力が二三なのである。
 「ま、待て。レベルだって、レベルが違うって」
 　レベルは二も違う。
-「勇者って成長遅いの？」
+「勇者、成長遅いの？」
 「ちげえよ。俺ちゃん、すくすく育つ方だぜ」
 　とはいえ、他はレベル七なのに、君だけ五である。
 
