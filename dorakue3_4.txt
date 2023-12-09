@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231206_VaveYo.webp
 　クロバラ。おまかせ魔導さん。「クロバラさんはもう魔力が尽きたので、ただの胸のでかい女よ」
 https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231206_QeweKa.jpg
 
-　第一九幕、大蟹
+＃第一九幕、大蟹
 　宿頼むぜ、と君は告げた。
 「旅人の宿屋へ、ようこそ。こんな夜更けまでおつかれさまでした」
 「ああ、部屋空いてる？　俺ちゃんたち四人なんだけど」
@@ -835,16 +835,3 @@ https://raw.githubusercontent.com/hashsan/outputs/main/img/i20231206_QeweKa.jpg
 　つづく。
 
 index.html?file=dorakue3_5.txt
-
-
-　第二三幕、ロマリア王キミ
-　第二四幕、僧侶か盗賊かゼリ。
-　ゼリの周りには、今日明日知れぬアウトローばかりである。
-　第二五幕、恋多き娘クロバラ。
-　えっ。えっと、私の体って一日で飽きるのかしら。みたいな焦燥感にかられているのである。
-　第二六幕、すごろく姫タマモ
-　よく来た勇者、このすぐろく姫タマモに勝ったのであれば、世界の半分のすごろく場を渡そう。ただし、スイーツは渡さない。
-　すごろく券集め。魔物は？
-　すごろくで終わり。
-
-
